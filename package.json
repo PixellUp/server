@@ -1,0 +1,26 @@
+{
+  "name": "@ragemp-tools/server",
+  "version": "0.0.0",
+  "author": {
+    "name": "Danil Shaymurzin",
+    "email": "a@mur.cx",
+    "url": "https://mur.cx"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ragemp-tools/server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ragemp-tools/server/issues"
+  },
+  "homepage": "https://github.com/ragemp-tools/server#readme",
+  "keywords": [
+    "ragemp",
+    "ragemp-tools"
+  ],
+  "dependencies": {
+    "fetch": "^1.1.0"
+  }
+}
